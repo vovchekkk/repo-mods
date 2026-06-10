@@ -34,7 +34,7 @@ git clone https://github.com/vovchekkk/repo-mods.git
 ```
 REPO/
 ├── какие-то папки игры
-├── repo-mods/
+├── ✅ repo-mods/
 ├── REPO.exe
 ├── UnityCrashHandler64.exe
 └── UnityPlayer.dll
@@ -54,13 +54,13 @@ REPO/
 
 ```
 Делает git pull для обновления модов
+
 Переходит в корень игры
 
 Удаляет старые моды:
 BepInEx/plugins
 
 Копирует файлы в игру:
-
 BepInEx/
 BepInEx/plugins
 .doorstop_version
@@ -72,9 +72,9 @@ winhttp.dll
 
 ```
 REPO/
-├── ✅ BepInEx
+├── ✅ BepInEx/
 ├── какие-то папки игры
-├── repo-mods/
+├── ✅ repo-mods/
 ├── ✅ .doorstop_version
 ├── ✅ doorstop_config.ini
 ├── REPO.exe
