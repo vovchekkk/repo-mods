@@ -85,7 +85,7 @@ REPO/
 
 👉 В итоге игра всегда запускается с актуальными модами без ручных действий.
 
-## 📦 Моды
+## 📦 Моды [Последнее обновление: 10.06.26 - 18:46]
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
 ### 1. [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) [v2.5.4]
