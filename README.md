@@ -65,6 +65,7 @@ BepInEx/plugins
 Копирует файлы в игру:
 
 BepInEx/
+BepInEx/plugins
 .doorstop_version
 doorstop_config.ini
 winhttp.dll
@@ -73,5 +74,7 @@ winhttp.dll
 👉 В итоге игра всегда запускается с актуальными модами без ручных действий.
 
 ## 📦 Моды
+#### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
-TODO: описание модов будет добавлено позже
+### 1. [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
+This mod for R.E.P.O. prevents save files from being deleted upon player death, allowing you to continue playing without losing progress. Features in-game save manager (F7), quick reload (F9), and unlimited save slots!
