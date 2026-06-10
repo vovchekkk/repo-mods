@@ -1,0 +1,24 @@
+# Игнорировать всё
+*
+
+# Но заходить в папки
+!BepInEx/
+
+!BepInEx/config/
+!BepInEx/plugins/
+!BepInEx/core/
+
+!BepInEx/config/**
+!BepInEx/plugins/**
+!BepInEx/core/**
+
+# Спец-файлы
+!.doorstop_version
+!doorstop_config.ini
+!winhttp.dll
+
+# Сам gitignore хранить
+!.gitignore
+
+# Разрешить README
+!README.md
