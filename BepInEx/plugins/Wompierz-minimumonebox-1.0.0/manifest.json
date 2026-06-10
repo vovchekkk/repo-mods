@@ -1,0 +1,9 @@
+{
+  "name": "minimumonebox",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/mjaskot/minimumonebox",
+  "description": "Guarantees at least one cosmetic box spawn per level, leaves vanilla quality rolls untouched.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
