@@ -43,12 +43,10 @@ REPO/
 ## 🔄 Первое добавление/Обновление модов
 
 👉 Перейдите в папку `repo-mods`
+![Screenshot](screenshots/repo_mods_directory.png)
 
-Для первого добавления/обновления конфигурации модов используйте скрипт:
-
-```
-update.bat
-```
+Для первого добавления/обновления конфигурации модов используйте скрипт `update.bat`
+![Screenshot](screenshots/script.png)
 
 ### ⚙️ Что делает скрипт
 
@@ -76,5 +74,5 @@ winhttp.dll
 ## 📦 Моды
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
-### 1. [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/)
+### 1. [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/) [v1.3.2]
 This mod for R.E.P.O. prevents save files from being deleted upon player death, allowing you to continue playing without losing progress. Features in-game save manager (F7), quick reload (F9), and unlimited save slots!
