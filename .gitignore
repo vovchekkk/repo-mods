@@ -13,7 +13,6 @@
 !BepInEx/core/**
 
 # Скрипты
-!update.sh
 !update.bat
 
 # Спец-файлы
