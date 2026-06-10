@@ -88,11 +88,17 @@ REPO/
 ## 📦 Моды
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
-### 1. [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/) [v1.3.2]
+### 1. [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) [v2.5.4]
+A library for creating UI!
+
+### 2. [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/) [v1.2.6]
+Edit mod configs in-game!
+
+### 3. [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/) [v1.3.2]
 This mod for R.E.P.O. prevents save files from being deleted upon player death, allowing you to continue playing without losing progress. Features in-game save manager (F7), quick reload (F9), and unlimited save slots!
 
-### 2. [minimumonebox](https://thunderstore.io/c/repo/p/Wompierz/minimumonebox/) [v1.0.0]
+### 4. [minimumonebox](https://thunderstore.io/c/repo/p/Wompierz/minimumonebox/) [v1.0.0]
 Guarantees at least one cosmetic box spawn per level, leaves vanilla quality rolls untouched.
 
-### 3. [MoreTaxTokensSimple](https://thunderstore.io/c/repo/p/cn_xc/MoreTaxTokensSimple/) [v1.7.1]
+### 5. [MoreTaxTokensSimple](https://thunderstore.io/c/repo/p/cn_xc/MoreTaxTokensSimple/) [v1.7.1]
 已支持至 REPO v0.4.4 版本，交流QQ群573485890，提取外观箱子时获得更多税款代币。默认 10 倍。
