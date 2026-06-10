@@ -1,7 +1,6 @@
 @echo off
 setlocal
 
-REM текущая папка = repo-mods
 cd /d %~dp0
 
 REM -----------------------------
@@ -9,23 +8,28 @@ REM 📦 обновляем репозиторий
 REM -----------------------------
 git pull
 
-REM -----------------------------
-REM 📍 поднимаемся в корень игры
-REM (repo-mods лежит внутри REPO)
-REM -----------------------------
 cd ..
 
 REM -----------------------------
-REM 🧹 очищаем BepInEx\plugins
+REM 🧹 очищаем только plugins (если нужно)
 REM -----------------------------
 if exist "BepInEx\plugins" (
     rmdir /s /q "BepInEx\plugins"
 )
 
 REM -----------------------------
-REM 📦 копируем моды
+REM 📦 копируем BepInEx целиком
 REM -----------------------------
-xcopy "repo-mods\*" "." /E /I /Y
+if exist "repo-mods\BepInEx" (
+    xcopy "repo-mods\BepInEx" "BepInEx\" /E /I /Y
+)
+
+REM -----------------------------
+REM 📦 отдельные файлы в корень игры
+REM -----------------------------
+copy /Y "repo-mods\.doorstop_version" "."
+copy /Y "repo-mods\doorstop_config.ini" "."
+copy /Y "repo-mods\winhttp.dll" "."
 
 endlocal
 pause
