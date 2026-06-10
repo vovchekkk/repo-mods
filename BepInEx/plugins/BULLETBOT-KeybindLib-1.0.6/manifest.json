@@ -1,0 +1,7 @@
+{
+  "name": "KeybindLib",
+  "version_number": "1.0.6",
+  "website_url": "https://github.com/BULL3TB0T/REPO-KeybindLib",
+  "description": "A library that lets you add your own keybinds to the controls.",
+  "dependencies": []
+}

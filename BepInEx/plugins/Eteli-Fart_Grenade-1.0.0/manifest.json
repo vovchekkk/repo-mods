@@ -1,0 +1,7 @@
+{
+    "name": "Fart_Grenade",
+    "website_url": "",
+    "version_number": "1.0.0",
+    "description": "Changes the grenade explosion sound to be a fart",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

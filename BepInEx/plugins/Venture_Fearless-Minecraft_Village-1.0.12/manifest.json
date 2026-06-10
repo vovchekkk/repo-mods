@@ -1,0 +1,9 @@
+{
+  "name": "Minecraft_Village",
+  "description": "A map that adds a Minecraft village in a dark valley, with underground caves filled with redstone puzzles hiding loot within.",
+  "version_number": "1.0.12",
+  "dependencies": [
+    "Zehs-REPOLib-3.0.1"
+  ],
+  "website_url": ""
+}

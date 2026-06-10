@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3230770282
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gardenmod.repobundle
+      Dependencies: {}

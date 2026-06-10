@@ -1,0 +1,9 @@
+{
+  "name": "ML_Moreplayers",
+  "version_number": "1.0.3",
+  "website_url": "https://thunderstore.io/c/repo/p/Malina/ML_Moreplayers/",
+  "description": "Allows changing the max player count in R.E.P.O.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}

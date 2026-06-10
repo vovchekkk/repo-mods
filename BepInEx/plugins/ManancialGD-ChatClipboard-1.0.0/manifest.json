@@ -1,0 +1,9 @@
+{
+    "name": "ChatClipboard",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/ManancialGD/ClipboardREPO",
+    "description": "copy and paste chat messages.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}

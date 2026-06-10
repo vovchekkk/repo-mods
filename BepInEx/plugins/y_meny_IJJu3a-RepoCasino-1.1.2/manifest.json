@@ -1,0 +1,9 @@
+{
+  "name": "RepoCasino",
+  "description": "casino for repo",
+  "version_number": "1.1.2",
+  "dependencies": [
+    "Zehs-REPOLib-4.0.0"
+  ],
+  "website_url": ""
+}
