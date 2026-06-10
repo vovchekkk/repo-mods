@@ -53,9 +53,8 @@ REPO/
 Скрипт автоматически:
 
 ```
-Переходит в папку repo-mods
 Делает git pull для обновления модов
-Возвращается в корень игры
+Переходит в корень игры
 
 Удаляет старые моды:
 BepInEx/plugins
@@ -67,6 +66,21 @@ BepInEx/plugins
 .doorstop_version
 doorstop_config.ini
 winhttp.dll
+```
+
+### 🤔 После добавления модов структура должна выглядеть так:
+
+```
+REPO/
+├── ✅ BepInEx
+├── какие-то папки игры
+├── repo-mods/
+├── ✅ .doorstop_version
+├── ✅ doorstop_config.ini
+├── REPO.exe
+├── UnityCrashHandler64.exe
+├── UnityPlayer.dll
+└── ✅ winhttp.dll
 ```
 
 👉 В итоге игра всегда запускается с актуальными модами без ручных действий.
