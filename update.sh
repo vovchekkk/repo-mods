@@ -1,14 +1,9 @@
 #!/bin/bash
 
-cd /d/Games/Steam/steamapps/common/REPO
+cd /d/Games/Steam/steamapps/common/REPO/repo-mods
 
-if [ ! -d "mods/.git" ]; then
-  git clone https://github.com/vovchekkk/repo-mods.git mods
-else
-  cd mods
-  git pull
-  cd ..
-fi
+git pull
+cd ..
 
 # -----------------------------
 # 🧹 очищаем BepInEx/plugins
@@ -20,4 +15,4 @@ fi
 # -----------------------------
 # 📦 копируем всё из mods в игру
 # -----------------------------
-cp -r mods/* .
+cp -r repo-mods/* .

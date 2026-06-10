@@ -12,8 +12,9 @@
 !BepInEx/plugins/**
 !BepInEx/core/**
 
-# Скрипт
+# Скрипты
 !update.sh
+!update.bat
 
 # Спец-файлы
 !.doorstop_version
