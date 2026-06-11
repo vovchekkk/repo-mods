@@ -86,6 +86,30 @@ REPO/
 👉 В итоге игра всегда запускается с актуальными модами без ручных действий.
 
 ## 📦 Моды [Последнее обновление: 11.06.26 - 00:51]
+
+## 🧰 Создание ярлыка для удобного обновления модов
+
+### ⚓ В папке `repo-mods` создаем ярлык для скрипта `update.bat`
+
+1. Нажмите на скрипт `update.bat` правой кнопкой мыши
+![Screenshot](screenshots/menu_show.png)
+2. Нажмите `Показать дополнительные параметры`
+![Screenshot](screenshots/show_additional_parameters.png)
+3. Нажмите `Cозд. ярлык`
+![Screenshot](screenshots/create_iarlik.png)
+4. Ярлык создан
+![Screenshot](screenshots/created_iarlik.png)
+
+### 📢 Переименование и перемещение
+
+1. Можете переименовать его так, как вам удобно
+![Screenshot](screenshots/renamed_iarlik.png)
+2. Можете переместить его туда, куда вам удобно
+![Screenshot](screenshots/replaced_iarlik.png)
+
+👉 Теперь ради обновления модов не придется заходить в корневую папку игры `REPO`
+
+## 📦 Моды [Последнее обновление: 10.06.26 - 20:00]
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
 ### 1. [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) [v2.5.4]
