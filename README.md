@@ -217,3 +217,45 @@ Changes the grenade explosion sound to be a fart
 
 ### 33. [RepoCasino](https://thunderstore.io/c/repo/p/y_meny_IJJu3a/RepoCasino/) [v1.1.2]
 casino for repo
+
+### 34. [SkyCustomLevelSizes Skydorm](https://thunderstore.io/c/repo/p/Skydorm/SkyCustomLevelSizes_Skydorm/v/0.0.1/) [v0.0.1]
+Script to allow bigger Modules instead of 3x3
+
+### 35. [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) [v1.0.1]
+Take no damage in the shop
+
+### 36. [BluePrince](https://thunderstore.io/c/repo/p/Arc059/BluePrince/) [v1.3.2]
+https://thunderstore.io/c/repo/p/Arc059/BluePrince/
+
+### 37. [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/) [v3.5.0]
+Military themed level with a mix of Goldeneye, Half-Life, Halo and much more!
+
+### 38. [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/) [v1.1.3]
+Adds a new Level and custom Valuables!
+
+### 39. [AhhhDeath](https://thunderstore.io/c/repo/p/Pudack/AhhhDeath/) [v1.0.1]
+Replaces the default death explosion with the ahhh echo meme.
+
+### 40. [Peachs Castle Level Mod](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/) [v0.3.5]
+Adds a new level to Repo, Peach Castle, with new Gimmicks for the Level.
+
+### 41. [DisableClientsideTimeout](https://thunderstore.io/c/repo/p/JustSomeGuy/DisableClientsideTimeout/) [v1.1.0]
+Disables the client-side Photon TimeoutDisconnect check to potentially reduce random disconnects. Now includes a configuration option to toggle the patch. Does not prevent server-side timeouts.
+
+### 42. [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/) [v0.0.17]
+Adds a damp mine level.
+
+### 43. [LateRepo](https://thunderstore.io/c/repo/p/Chaosholz/LateRepo/) [v1.6.4]
+Adds LateJoin to R.E.P.O. and includes several quality-of-life features.
+
+### 44. [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/) [v1.0.16]
+The best admin menu for R.E.P.O.
+
+### 45. [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) [v1.0.3]
+Adds health & damage UI indicators for enemies.
+
+### 46. [RoboUnion](https://thunderstore.io/c/repo/p/linkoid/RoboUnion/) [v0.6.2]
+[MorePlayers] The Robo Union empowers YOU 🫵 to safely increase (or decrease) the maximum number of workers on a R.E.P.O. team. Leave no Semibot behind!
+
+### 47. [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) [v1.1.0]
+Allows you to fly around while spectating.
