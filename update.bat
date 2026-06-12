@@ -14,9 +14,15 @@ git clean -fd
 cd ..
 
 REM -----------------------------
-REM 🧹 очищаем только plugins (если нужно)
+REM 🧹 очищаем (если нужно)
 REM -----------------------------
 if exist "BepInEx\plugins" (
+    rmdir /s /q "BepInEx\plugins"
+)
+if exist "BepInEx\config" (
+    rmdir /s /q "BepInEx\plugins"
+)
+if exist "BepInEx\core" (
     rmdir /s /q "BepInEx\plugins"
 )
 
