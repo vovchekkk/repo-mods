@@ -153,19 +153,19 @@ Adds chat box to REPO for easier communication. Configurable!
 #### 21. [MapVote](https://thunderstore.io/c/repo/p/Patrick/MapVote/) [v1.1.2]
 Allows you and your friends to vote for the next map to play!
 
-### 27. [ChatClipboard](https://thunderstore.io/c/repo/p/ManancialGD/ChatClipboard/) [v1.0.0]
+#### 27. [ChatClipboard](https://thunderstore.io/c/repo/p/ManancialGD/ChatClipboard/) [v1.0.0]
 copy and paste chat messages.
 
-### 35. [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) [v1.0.1]
+#### 35. [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) [v1.0.1]
 Take no damage in the shop
 
-### 41. [DisableClientsideTimeout](https://thunderstore.io/c/repo/p/JustSomeGuy/DisableClientsideTimeout/) [v1.1.0]
+#### 41. [DisableClientsideTimeout](https://thunderstore.io/c/repo/p/JustSomeGuy/DisableClientsideTimeout/) [v1.1.0]
 Disables the client-side Photon TimeoutDisconnect check to potentially reduce random disconnects. Now includes a configuration option to toggle the patch. Does not prevent server-side timeouts.
 
-### 43. [LateRepo](https://thunderstore.io/c/repo/p/Chaosholz/LateRepo/) [v1.6.4]
+#### 43. [LateRepo](https://thunderstore.io/c/repo/p/Chaosholz/LateRepo/) [v1.6.4]
 Adds LateJoin to R.E.P.O. and includes several quality-of-life features.
 
-### 46. [RoboUnion](https://thunderstore.io/c/repo/p/linkoid/RoboUnion/) [v0.6.2]
+#### 46. [RoboUnion](https://thunderstore.io/c/repo/p/linkoid/RoboUnion/) [v0.6.2]
 [MorePlayers] The Robo Union empowers YOU 🫵 to safely increase (or decrease) the maximum number of workers on a R.E.P.O. team. Leave no Semibot behind!
 
 ### Небольшие упрощения
@@ -182,91 +182,91 @@ Guarantees at least one cosmetic box spawn per level, leaves vanilla quality rol
 #### 12. [ExtractionPointConfirmButton](https://thunderstore.io/c/repo/p/Zehs/ExtractionPointConfirmButton/) [1.2.0]
 Adds a confirm button to extraction points.
 
-### 15. [MoreShopItems Updated](https://thunderstore.io/c/repo/p/Jettcodey/MoreShopItems_Updated/) [v4.2.2]
+#### 15. [MoreShopItems Updated](https://thunderstore.io/c/repo/p/Jettcodey/MoreShopItems_Updated/) [v4.2.2]
 MoreShopItems Updated!!! The Store now carries more items on the shelves!
 
-### 23. [NoGunSpread](https://thunderstore.io/c/repo/p/Lazarus/NoGunSpread/) [v1.0.4]
+#### 23. [NoGunSpread](https://thunderstore.io/c/repo/p/Lazarus/NoGunSpread/) [v1.0.4]
 Removes the inaccurate bullet spread from all guns!
 
-### 26. [UnlimitedOrbs](https://thunderstore.io/c/repo/p/TheRavenNest/UnlimitedOrbs/) [v1.0.3]
+#### 26. [UnlimitedOrbs](https://thunderstore.io/c/repo/p/TheRavenNest/UnlimitedOrbs/) [v1.0.3]
 Removes the Monster Orb cap from 3 to the maximum int value, which removes the softlock the game has if you accidently destroy all the loot
 
-### 45. [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) [v1.0.3]
+#### 45. [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) [v1.0.3]
 Adds health & damage UI indicators for enemies.
 
 ### Нововведения
 
-### 11. [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/) [v1.7.3]
+#### 11. [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/) [v1.7.3]
 Adds more unique upgrade items and is highly configurable.
 
-### 25. [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/) [v1.0.4]
+#### 25. [Dead Map Access](https://thunderstore.io/c/repo/p/SaturnKai/Dead_Map_Access/) [v1.0.4]
 Allows dead players to open the map while spectating.
 
-### 47. [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) [v1.1.0]
+#### 47. [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) [v1.1.0]
 Allows you to fly around while spectating.
 
-### 27. [CANNON](https://thunderstore.io/c/repo/p/Sai/CANNON/) [v0.8.6]
+#### 27. [CANNON](https://thunderstore.io/c/repo/p/Sai/CANNON/) [v0.8.6]
 Adds a fully functional and high power cannon to REPO
 
-### 29. [BigNuke](https://thunderstore.io/c/repo/p/TitanVortex/BigNuke/) [v1.0.1]
+#### 29. [BigNuke](https://thunderstore.io/c/repo/p/TitanVortex/BigNuke/) [v1.0.1]
 Big Nuke with big explosion!
 
-### 30. [BigNuke Fix](https://thunderstore.io/c/repo/p/Omniscye/BigNuke_Fix/) [v1.0.0]
+#### 30. [BigNuke Fix](https://thunderstore.io/c/repo/p/Omniscye/BigNuke_Fix/) [v1.0.0]
 Compatibility fix that updates BigNuke to work with the current version of REPO.
 
 ### Новые уровни
 
-### 13. [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/) [1.14.0]
+#### 13. [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/) [1.14.0]
 minecraft stronghold map with custom features.
 
-### 16. [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/) [v1.1.1]
+#### 16. [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/) [v1.1.1]
 Freddy Fazbear's Pizza, where Fantasy meets Fun! - NOW UPDATED for Monster Update!
 
-### 17. [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/) [v0.3.6]
+#### 17. [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/) [v0.3.6]
 adds new levels a game. by tolian!
 
-### 18. [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/) [1.1.11]
+#### 18. [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/) [1.1.11]
 Adds a new level
 
-### 19. [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/) [v1.1.8]
+#### 19. [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/) [v1.1.8]
 A Vanilla themed garden level! (MONSTER UPDATE)
 
-### 22. [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/) [v1.0.12]
+#### 22. [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/) [v1.0.12]
 A map that adds a Minecraft village in a dark valley, with underground caves filled with redstone puzzles hiding loot within.
 
-### 24. [Melanie REPO Levels MelanieMelicious](https://thunderstore.io/c/repo/p/MelanieMelicious/Melanie_REPO_Levels_MelanieMelicious/) [v0.2.0]
+#### 24. [Melanie REPO Levels MelanieMelicious](https://thunderstore.io/c/repo/p/MelanieMelicious/Melanie_REPO_Levels_MelanieMelicious/) [v0.2.0]
 Currently adds 1 level based on one of my Lethal Company interiors. More tile variety, decor, and levels to be added in future updates. Ideas, and suggestions appreciated. You can find me on the R.E.P.O modding Discord.
 
-### 36. [BluePrince](https://thunderstore.io/c/repo/p/Arc059/BluePrince/) [v1.3.2]
+#### 36. [BluePrince](https://thunderstore.io/c/repo/p/Arc059/BluePrince/) [v1.3.2]
 Adds Mt Holly Level
 
-### 37. [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/) [v3.5.0]
+#### 37. [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/) [v3.5.0]
 Military themed level with a mix of Goldeneye, Half-Life, Halo and much more!
 
-### 38. [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/) [v1.1.3]
+#### 38. [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/) [v1.1.3]
 Adds a new Level and custom Valuables!
 
-### 40. [Peachs Castle Level Mod](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/) [v0.3.5]
+#### 40. [Peachs Castle Level Mod](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/) [v0.3.5]
 Adds a new level to Repo, Peach Castle, with new Gimmicks for the Level.
 
-### 42. [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/) [v0.0.17]
+#### 42. [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/) [v0.0.17]
 Adds a damp mine level.
 
 ### Развлечения
 
-### 20. [REPOGambling](https://thunderstore.io/c/repo/p/DirtyGames/REPOGambling/) [v1.7.1]
+#### 20. [REPOGambling](https://thunderstore.io/c/repo/p/DirtyGames/REPOGambling/) [v1.7.1]
 REPO Gambling adds configurable casino to the shop! A wheel with many prizes, death, upgrade, mystery, jackpot and more! Slot machines with jackpots and bets! Configurable settings to ensure you play the way you want too.
 
-### 33. [RepoCasino](https://thunderstore.io/c/repo/p/y_meny_IJJu3a/RepoCasino/) [v1.1.2]
+#### 33. [RepoCasino](https://thunderstore.io/c/repo/p/y_meny_IJJu3a/RepoCasino/) [v1.1.2]
 casino for repo
 
-### 32. [Fart Grenade](https://thunderstore.io/c/repo/p/Eteli/Fart_Grenade/) [v1.0.0]
+#### 32. [Fart Grenade](https://thunderstore.io/c/repo/p/Eteli/Fart_Grenade/) [v1.0.0]
 Changes the grenade explosion sound to be a fart
 
-### 39. [AhhhDeath](https://thunderstore.io/c/repo/p/Pudack/AhhhDeath/) [v1.0.1]
+#### 39. [AhhhDeath](https://thunderstore.io/c/repo/p/Pudack/AhhhDeath/) [v1.0.1]
 Replaces the default death explosion with the ahhh echo meme.
 
 ### Тестирование
 
-### 44. [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/) [v1.0.16]
+#### 44. [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/) [v1.0.16]
 The best admin menu for R.E.P.O.
