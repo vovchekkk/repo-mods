@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b5a523bb7e0905cb294becd7a5b7239c4090f13e869f34d6514027d089457253
-size 148
+ManifestFileVersion: 0
+CRC: 3230770282
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gardenmod.repobundle
+      Dependencies: {}

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c487f4974a6d7e445c482e6f1e8b6765b0b8ac78177179368df64ed937a596c
-size 324
+{
+  "name": "Peachs_Castle_Level_Mod",
+  "description": "Adds a new level to Repo, Peach Castle, with new Gimmicks for the Level.",
+  "version_number": "0.3.5",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Zehs-REPOLib-3.0.3",
+	"Skydorm-SkyCustomLevelSizes_Skydorm-0.0.2"
+  ],
+  "website_url": ""
+}
