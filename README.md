@@ -28,6 +28,8 @@
 ```bash
 git clone https://github.com/vovchekkk/repo-mods.git
 ```
+5. Дождитесь, пока клонирование полностью завершиться, не торопитесь
+![Screenshot](screenshots/completed_clone.png)
 
 ### 🤔 После клонирования репозитория структура должна выглядеть так:
 
@@ -47,6 +49,9 @@ REPO/
 
 2. Для первого добавления/обновления конфигурации модов используйте скрипт `update.bat`
 ![Screenshot](screenshots/script.png)
+
+3. Дождитесь, пока первое добавление/обновление полностью завершиться, не торопитесь
+![Screenshot](screenshots/completed_script.png)
 
 ### ⚙️ Что делает скрипт
 
