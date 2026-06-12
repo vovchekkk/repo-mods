@@ -1,9 +1,3 @@
-{
-  "name": "MinecraftStrongholdLevel",
-  "description": "minecraft stronghold map with custom features.",
-  "version_number": "1.14.0",
-  "dependencies": [
-    "Zehs-REPOLib-4.0.1"
-  ],
-  "website_url": ""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f15938f5a754d5035721de67d4ca68df465a2b43712a1f08cd6cb80e10375795
+size 216

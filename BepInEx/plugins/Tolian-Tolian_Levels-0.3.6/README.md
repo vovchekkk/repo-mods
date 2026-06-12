@@ -1,31 +1,3 @@
-# Tolian Levels(Testing)
-
-- +Mirefort)
-- +Vaultline: Sector
-
-<details>
-  <summary><strong>Mirefort</strong></summary>
-
-![Screenshot 2](https://raw.githubusercontent.com/Toliann/Tolian-Levels/refs/heads/main/Screenshot/Mirefort1.png)
-![Screenshot 2](https://raw.githubusercontent.com/Toliann/Tolian-Levels/refs/heads/main/Screenshot/Mirefort2.png)
-
-</details>
-
-<details>
-  <summary><strong>Vaultline: Sector</strong></summary>
-
-![Screenshot 1](https://raw.githubusercontent.com/Toliann/Tolian-Levels/refs/heads/main/Screenshot/vautline1.png)
-![Screenshot 1](https://raw.githubusercontent.com/Toliann/Tolian-Levels/refs/heads/main/Screenshot/vautline2.png)
-
-</details>
-
-## Special thanks
-
-- Thank you to **dorn** for the loading screen for the Vautline:Sector
-
-#
-### My discord - tolian
-- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:639b3b982fa381532d8d2a247495f3d739245ee56c041d20367c99d1a66e719b
+size 855

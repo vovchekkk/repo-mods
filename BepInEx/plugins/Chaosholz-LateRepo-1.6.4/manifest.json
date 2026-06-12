@@ -1,0 +1,11 @@
+{
+  "name": "LateRepo",
+  "version_number": "1.6.4",
+  "website_url": "https://github.com/Chaosholz/LateRepo",
+  "description": "Adds LateJoin to R.E.P.O. and includes several quality-of-life features.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2304"
+  ],
+  "license": "GPL-3.0",
+  "author": "Chaosholz"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SkyCustomLevelSizes_Skydorm",
+  "version_number": "0.0.2",
+  "website_url": "",
+  "description": "Script to allow bigger Modules instead of 3x3.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
