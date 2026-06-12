@@ -119,7 +119,7 @@ REPO/
 ## 📦 Моды [Последнее обновление: 11.06.26 - 00:51]
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
-### ────────── Моды, упрощающие разработку других модов ──────────
+### ─────────── Моды, упрощающие разработку других модов ───────────
 
 #### 1. [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) [v2.5.4]
 A library for creating UI!
