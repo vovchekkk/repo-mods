@@ -119,7 +119,7 @@ REPO/
 ## 📦 Моды [Последнее обновление: 11.06.26 - 00:51]
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
-### Моды, упрощающие разработку других модов
+### ───── Моды, упрощающие разработку других модов ─────
 
 #### 1. [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) [v2.5.4]
 A library for creating UI!
@@ -130,13 +130,13 @@ Edit mod configs in-game!
 #### 3. [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/) [v4.2.0]
 Library for adding content to R.E.P.O.
 
-### 34. [SkyCustomLevelSizes Skydorm](https://thunderstore.io/c/repo/p/Skydorm/SkyCustomLevelSizes_Skydorm/v/0.0.1/) [v0.0.1]
+#### 34. [SkyCustomLevelSizes Skydorm](https://thunderstore.io/c/repo/p/Skydorm/SkyCustomLevelSizes_Skydorm/v/0.0.1/) [v0.0.1]
 Script to allow bigger Modules instead of 3x3
 
 #### 7. [AutoHookGenPatcher](https://thunderstore.io/c/repo/p/Hamunii/AutoHookGenPatcher/) [1.1.1]
 Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during the BepInEx preloader phase.
 
-### Улучшения
+### ───── Улучшения ─────
 
 #### 4. [TextUpgradesUIScale](https://thunderstore.io/c/repo/p/DarkSpider/TextUpgradesUIScale/) [v1.2.1]
 Scales the R.E.P.O. upgrade list UI after v0.4.0 with a simple configurable step-based text scaler.
@@ -168,7 +168,7 @@ Adds LateJoin to R.E.P.O. and includes several quality-of-life features.
 #### 46. [RoboUnion](https://thunderstore.io/c/repo/p/linkoid/RoboUnion/) [v0.6.2]
 [MorePlayers] The Robo Union empowers YOU 🫵 to safely increase (or decrease) the maximum number of workers on a R.E.P.O. team. Leave no Semibot behind!
 
-### Небольшие упрощения
+### ───── Небольшие упрощения ─────
 
 #### 8. [No Save Delete](https://thunderstore.io/c/repo/p/PxntxrezStudio/No_Save_Delete/) [v1.3.2]
 This mod for R.E.P.O. prevents save files from being deleted upon player death, allowing you to continue playing without losing progress. Features in-game save manager (F7), quick reload (F9), and unlimited save slots!
@@ -194,7 +194,7 @@ Removes the Monster Orb cap from 3 to the maximum int value, which removes the s
 #### 45. [ShowEnemyHealth](https://thunderstore.io/c/repo/p/Rozza/ShowEnemyHealth/) [v1.0.3]
 Adds health & damage UI indicators for enemies.
 
-### Нововведения
+### ───── Нововведения ─────
 
 #### 11. [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/) [v1.7.3]
 Adds more unique upgrade items and is highly configurable.
@@ -214,7 +214,7 @@ Big Nuke with big explosion!
 #### 30. [BigNuke Fix](https://thunderstore.io/c/repo/p/Omniscye/BigNuke_Fix/) [v1.0.0]
 Compatibility fix that updates BigNuke to work with the current version of REPO.
 
-### Новые уровни
+### ───── Новые уровни ─────
 
 #### 13. [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/) [1.14.0]
 minecraft stronghold map with custom features.
@@ -252,7 +252,7 @@ Adds a new level to Repo, Peach Castle, with new Gimmicks for the Level.
 #### 42. [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/) [v0.0.17]
 Adds a damp mine level.
 
-### Развлечения
+### ───── Развлечения ─────
 
 #### 20. [REPOGambling](https://thunderstore.io/c/repo/p/DirtyGames/REPOGambling/) [v1.7.1]
 REPO Gambling adds configurable casino to the shop! A wheel with many prizes, death, upgrade, mystery, jackpot and more! Slot machines with jackpots and bets! Configurable settings to ensure you play the way you want too.
@@ -266,7 +266,7 @@ Changes the grenade explosion sound to be a fart
 #### 39. [AhhhDeath](https://thunderstore.io/c/repo/p/Pudack/AhhhDeath/) [v1.0.1]
 Replaces the default death explosion with the ahhh echo meme.
 
-### Тестирование
+### ───── Тестирование ─────
 
 #### 44. [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/) [v1.0.16]
 The best admin menu for R.E.P.O.
