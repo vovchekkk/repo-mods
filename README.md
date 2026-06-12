@@ -130,11 +130,11 @@ Library for adding content to R.E.P.O.
 #### 3. [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) [v2.5.4]
 A library for creating UI!
 
-#### 4. [SkyCustomLevelSizes Skydorm](https://thunderstore.io/c/repo/p/Skydorm/SkyCustomLevelSizes_Skydorm/v/0.0.1/) [v0.0.1]
-Script to allow bigger Modules instead of 3x3
-
-#### 5. [AutoHookGenPatcher](https://thunderstore.io/c/repo/p/Hamunii/AutoHookGenPatcher/) [1.1.1]
+#### 4. [AutoHookGenPatcher](https://thunderstore.io/c/repo/p/Hamunii/AutoHookGenPatcher/) [1.1.1]
 Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK files during the BepInEx preloader phase.
+
+#### 5. [SkyCustomLevelSizes Skydorm](https://thunderstore.io/c/repo/p/Skydorm/SkyCustomLevelSizes_Skydorm/v/0.0.1/) [v0.0.1]
+Script to allow bigger Modules instead of 3x3
 
 ### ──────────────────────── Улучшения ────────────────────────
 
@@ -147,14 +147,14 @@ A library that lets you add your own keybinds to the controls.
 #### 3. [NoItemSpawnLimit](https://thunderstore.io/c/repo/p/HeroHanex/NoItemSpawnLimit/) [v1.0.8]
 Removes or customizes truck item spawn limits for all items, including modded items. Host-only mod compatible with multiplayer.
 
+#### 6. [ChatClipboard](https://thunderstore.io/c/repo/p/ManancialGD/ChatClipboard/) [v1.0.0]
+copy and paste chat messages.
+
 #### 4. [ChatBox](https://thunderstore.io/c/repo/p/UnloadedHangar/ChatBox/) [v1.3.0]
 Adds chat box to REPO for easier communication. Configurable!
 
 #### 5. [MapVote](https://thunderstore.io/c/repo/p/Patrick/MapVote/) [v1.1.2]
 Allows you and your friends to vote for the next map to play!
-
-#### 6. [ChatClipboard](https://thunderstore.io/c/repo/p/ManancialGD/ChatClipboard/) [v1.0.0]
-copy and paste chat messages.
 
 #### 7. [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) [v1.0.1]
 Take no damage in the shop
