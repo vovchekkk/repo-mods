@@ -28,6 +28,8 @@
 ```bash
 git clone https://github.com/vovchekkk/repo-mods.git
 ```
+5. Дождитесь, пока клонирование полностью завершиться, не торопитесь
+![Screenshot](screenshots/cloned_repo.png)
 
 ### 🤔 После клонирования репозитория структура должна выглядеть так:
 
