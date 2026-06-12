@@ -225,7 +225,7 @@ Script to allow bigger Modules instead of 3x3
 Take no damage in the shop
 
 ### 36. [BluePrince](https://thunderstore.io/c/repo/p/Arc059/BluePrince/) [v1.3.2]
-https://thunderstore.io/c/repo/p/Arc059/BluePrince/
+Adds Mt Holly Level
 
 ### 37. [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/) [v3.5.0]
 Military themed level with a mix of Goldeneye, Half-Life, Halo and much more!
