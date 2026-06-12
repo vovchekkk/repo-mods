@@ -216,40 +216,40 @@ Compatibility fix that updates BigNuke to work with the current version of REPO.
 
 ### ─────────────────────── Новые уровни ───────────────────────
 
-#### 7. [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/) [1.14.0]
+#### 1. [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/) [1.14.0]
 minecraft stronghold map with custom features.
 
-#### 8. [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/) [v1.1.1]
+#### 2. [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/) [v1.1.1]
 Freddy Fazbear's Pizza, where Fantasy meets Fun! - NOW UPDATED for Monster Update!
 
-#### 9. [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/) [v0.3.6]
+#### 3. [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/) [v0.3.6]
 adds new levels a game. by tolian!
 
-#### 10. [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/) [1.1.11]
+#### 4. [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/) [1.1.11]
 Adds a new level
 
-#### 11. [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/) [v1.1.8]
+#### 5. [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/) [v1.1.8]
 A Vanilla themed garden level! (MONSTER UPDATE)
 
-#### 12. [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/) [v1.0.12]
+#### 6. [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/) [v1.0.12]
 A map that adds a Minecraft village in a dark valley, with underground caves filled with redstone puzzles hiding loot within.
 
-#### 13. [Melanie REPO Levels MelanieMelicious](https://thunderstore.io/c/repo/p/MelanieMelicious/Melanie_REPO_Levels_MelanieMelicious/) [v0.2.0]
+#### 7. [Melanie REPO Levels MelanieMelicious](https://thunderstore.io/c/repo/p/MelanieMelicious/Melanie_REPO_Levels_MelanieMelicious/) [v0.2.0]
 Currently adds 1 level based on one of my Lethal Company interiors. More tile variety, decor, and levels to be added in future updates. Ideas, and suggestions appreciated. You can find me on the R.E.P.O modding Discord.
 
-#### 14. [BluePrince](https://thunderstore.io/c/repo/p/Arc059/BluePrince/) [v1.3.2]
+#### 8. [BluePrince](https://thunderstore.io/c/repo/p/Arc059/BluePrince/) [v1.3.2]
 Adds Mt Holly Level
 
-#### 15. [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/) [v3.5.0]
+#### 9. [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/) [v3.5.0]
 Military themed level with a mix of Goldeneye, Half-Life, Halo and much more!
 
-#### 16. [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/) [v1.1.3]
+#### 10. [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/) [v1.1.3]
 Adds a new Level and custom Valuables!
 
-#### 17. [Peachs Castle Level Mod](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/) [v0.3.5]
+#### 11. [Peachs Castle Level Mod](https://thunderstore.io/c/repo/p/Skydorm/Peachs_Castle_Level_Mod/) [v0.3.5]
 Adds a new level to Repo, Peach Castle, with new Gimmicks for the Level.
 
-#### 18. [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/) [v0.0.17]
+#### 12. [DampMine](https://thunderstore.io/c/repo/p/DragonClawStudios/DampMine/) [v0.0.17]
 Adds a damp mine level.
 
 ### ─────────────────────── Развлечения ───────────────────────
