@@ -28,8 +28,6 @@
 ```bash
 git clone https://github.com/vovchekkk/repo-mods.git
 ```
-5. Дождитесь, пока клонирование полностью завершиться, не торопитесь
-![Screenshot](screenshots/cloned_repo.png)
 
 ### 🤔 После клонирования репозитория структура должна выглядеть так:
 
@@ -55,7 +53,11 @@ REPO/
 Скрипт автоматически:
 
 ```
-Делает git pull для обновления модов
+Синхронизирует репозитории:
+git fetch origin
+git checkout main
+git reset --hard origin/main
+git clean -fd
 
 Переходит в корень игры
 
