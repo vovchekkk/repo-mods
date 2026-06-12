@@ -116,7 +116,7 @@ REPO/
 
 👉 Теперь ради обновления модов не придется заходить в корневую папку игры `REPO`
 
-## 📦 Моды [Последнее обновление: 11.06.26 - 00:51]
+## 📦 Моды [Последнее обновление: 12.06.26 - 14:40]
 #### 👉 Все моды берутся [отсюда](https://thunderstore.io/c/repo/?ordering=most-downloaded&section=mods), так что можете предлагать понравившиеся 👈
 
 ### ─────────── Моды, упрощающие разработку других модов ───────────
@@ -252,3 +252,5 @@ Replaces the default death explosion with the ahhh echo meme.
 
 #### 1. [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/) [v1.0.16]
 The best admin menu for R.E.P.O.
+
+## Всего: 40 модов
