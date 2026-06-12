@@ -156,8 +156,8 @@ Adds chat box to REPO for easier communication. Configurable!
 #### 5. [MapVote](https://thunderstore.io/c/repo/p/Patrick/MapVote/) [v1.1.2]
 Allows you and your friends to vote for the next map to play!
 
-#### 7. [NoDamageInShop](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) [v1.0.1]
-Take no damage in the shop
+#### 7. [NoDamageInShop](https://thunderstore.io/c/repo/p/HappyCats/NoDamageInShop/) [v1.0.0]
+Prevents players from taking damage while they are in the shop level.
 
 #### 8. [DisableClientsideTimeout](https://thunderstore.io/c/repo/p/JustSomeGuy/DisableClientsideTimeout/) [v1.1.0]
 Disables the client-side Photon TimeoutDisconnect check to potentially reduce random disconnects. Now includes a configuration option to toggle the patch. Does not prevent server-side timeouts.
@@ -248,9 +248,4 @@ Changes the grenade explosion sound to be a fart
 #### 4. [AhhhDeath](https://thunderstore.io/c/repo/p/Pudack/AhhhDeath/) [v1.0.1]
 Replaces the default death explosion with the ahhh echo meme.
 
-### ─────────────────────── Тестирование ───────────────────────
-
-#### 1. [RepoAdminMenu](https://thunderstore.io/c/repo/p/proferabg/RepoAdminMenu/) [v1.0.16]
-The best admin menu for R.E.P.O.
-
-## Всего: 40 модов
+## Всего: 39 модов
